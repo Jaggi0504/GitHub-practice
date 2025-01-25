@@ -1,3 +1,3 @@
 # GitHub-practice
 
-<h3> Practicing GitHub </h3>
+<h3> Practicing Git and GitHub </h3>
